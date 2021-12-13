@@ -1,1 +1,1 @@
-# tut-bit-DB-7-slides
+# tut-bit-MySQL-DB-6-slides

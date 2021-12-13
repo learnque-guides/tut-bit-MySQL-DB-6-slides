@@ -1,0 +1,17 @@
+# Summary
+
+- [What is indexing?](./what_is_indexing.md)
+- [What exactly is and index?](./what_exactly_is_index.md)
+- [Types of indexing?](./types_of_indexing.md)
+- [Clustered index](./clustered_index.md)
+- [Non-clustered index](./non-clustered_index.md)
+- [When to use indexes?](./when_to_use_indexes.md)
+- [When not to use indexes?](./when_not_to_use_indexes.md)
+- [Exercise 1](./exercise_1.md)
+- [Entity relationship model, diagram](./entity_relationship_model.md)
+- [Why use ER diagrams](./why_use_er_diagrams.md)
+- [ERD Symbols & Notations](./er_sumbols_notations.md)
+- [Components of diagram](./components_of_the_diagram.md)
+- [Cardinality](./cardinality.md)
+- [Example](./example.md)
+- [Exercise 2](./exercise.md)

@@ -22,3 +22,22 @@ Make sure that your designed database is suitable to:
 * List the highest number of tickets sold for a movie.
 * List the unreserved seats for e.g. Joker.
 
+You can use image below for recreating ERD in MySQL workbench and then to generate all database tables.
+
+![Cinema schema](./images/cinema_databas_schema.png)
+
+Use create database statement for creating a database:
+
+```sql
+DROP DATABASE IF EXISTS `cinema`;
+CREATE DATABASE `cinema`;
+USE `cinema`;
+```
+
+You can also use database creation with default charset
+
+```sql
+CREATE DATABASE IF NOT EXISTS `cinema`
+    DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+USE `cinema`;
+```
